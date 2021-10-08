@@ -1,0 +1,25 @@
+{
+  "name": "Webpack-first-app",
+  "version": "1.0.0",
+  "private": "true",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GiuseppeVigliaturo/webpack-first-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GiuseppeVigliaturo/webpack-first-app/issues"
+  },
+  "homepage": "https://github.com/GiuseppeVigliaturo/webpack-first-app#readme",
+  "devDependencies": {
+    "webpack": "^5.58.1",
+    "webpack-cli": "^4.9.0"
+  }
+}
